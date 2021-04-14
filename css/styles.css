@@ -40,6 +40,23 @@ h2{
     color: var(--dark-blue);
 
     font-weight: normal;
+
+
+}
+
+/* Links & Buttons ===================== */
+
+a {
+    color: #49aa26;
+    text-decoration: none;
+}
+a:hover{
+    color: #3dd405;
+}
+
+.button.new{
+    margin-bottom: 0.8rem;
+    display: inline-block;
 }
 
 /* Header ===================== */
