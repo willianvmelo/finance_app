@@ -58,7 +58,7 @@ a:hover{
     color: #3dd405;
 }
 button{
-    width: 100%;
+    width: 50%;
     height:50px;
 
     border: none;
@@ -85,6 +85,7 @@ button:hover{
     border: 2px #e92929 solid;
     border-radius:0.25rem;
     height: 50px;
+    width:50%;
 
     display:flex;
     align-items: center;
@@ -206,7 +207,7 @@ td.expense{
     color: #e92929;
 }
 
-/* Footer ===================== */
+/* Modal ===================== */
 
 .modal-overlay {
     width: 100%;
@@ -267,8 +268,10 @@ input{
 .input-group.actions{
 
     display:flex;
-    justify-content:space-between;
+    justify-content: space-between;
     align-items:center;
+  
+
 }
 /* Footer ===================== */
 
